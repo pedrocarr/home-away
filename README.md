@@ -66,7 +66,7 @@ npx shadcn-ui@latest init
 - Zinc
 
 ```sh
-npx shadcn-ui@latest add button
+npx shadcn@latest add button
 ```
 
 ```tsx
@@ -86,7 +86,7 @@ export default HomePage;
 ```
 
 ```sh
-npx shadcn-ui@latest add breadcrumb calendar card checkbox dropdown-menu input label popover scroll-area select separator table textarea toast skeleton
+npx shadcn@latest add breadcrumb calendar card checkbox dropdown-menu input label popover scroll-area select separator table textarea toast skeleton
 ```
 
 - components
