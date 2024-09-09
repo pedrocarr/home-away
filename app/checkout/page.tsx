@@ -1,7 +1,7 @@
 
-export default function FavoritesPage() {
+export default function CheckoutPage() {
     return (
-      <div className='text-3xl text-center'>page</div>
+      <div className='text-3xl text-center'>CheckoutPage</div>
     )
   }
   
